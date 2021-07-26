@@ -1,1 +1,17 @@
 template.md
+
+
+# C++
+*.exe
+
+
+# JAVA
+
+# Compiled class file
+*.class
+# Log file
+*.log
+# Executables
+*.exe
+*.out
+*.app
